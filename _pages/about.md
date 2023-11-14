@@ -18,8 +18,3 @@ redirect_from:
 * [Optimistic vs zk rollups](https://utonium.medium.com/c%C3%B3mo-escala-ethereum-a-trav%C3%A9s-de-soluciones-de-layer-2-ebaef7a2b2f3)(ES)
 
 ![a true researcher](/images/simpsss.png)
-
-alguna señal del bull market?  
-vendrá
-por qué
-no resiste
