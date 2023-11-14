@@ -82,11 +82,10 @@ analytics:
 author:
   name             : "Facundo"
   avatar           : "profile.png"
-  bio              : "crypto researcher"
+  bio              : "a false sense of a successful crypto researcher"
   location         : "Argentina"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
