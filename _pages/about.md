@@ -17,5 +17,4 @@ redirect_from:
 * [Introduction to MEV](https://mirror.xyz/seedlatam.eth/nU0v23aHxFI7Aml-7JJr0i0VQyhzzLYqkqDnypxVN2Y)(ES)
 * [Optimistic vs zk rollups](https://utonium.medium.com/c%C3%B3mo-escala-ethereum-a-trav%C3%A9s-de-soluciones-de-layer-2-ebaef7a2b2f3)(ES)
 
-
-![true researcher](/images/editing/simpsss.png)
+![a true researcher](/images/simpsss.png)
