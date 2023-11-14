@@ -19,7 +19,7 @@ redirect_from:
 
 ![a true researcher](/images/simpsss.png)
 
-+ alguna señal del bull market?  
-- vendrá
-+ por qué
-- no resiste
+alguna señal del bull market?  
+vendrá
+por qué
+no resiste
