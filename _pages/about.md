@@ -16,3 +16,6 @@ redirect_from:
 * [PoW vs PoS: A comprehensive analysis](https://mirror.xyz/seedlatam.eth/DzJBQhrseL5zj4a9288I-BkqLiJh8ZvqhvIwKMMP9K4)(ES)
 * [Introduction to MEV](https://mirror.xyz/seedlatam.eth/nU0v23aHxFI7Aml-7JJr0i0VQyhzzLYqkqDnypxVN2Y)(ES)
 * [Optimistic vs zk rollups](https://utonium.medium.com/c%C3%B3mo-escala-ethereum-a-trav%C3%A9s-de-soluciones-de-layer-2-ebaef7a2b2f3)(ES)
+
+
+![true researcher](/images/editing/simpsss.png)
