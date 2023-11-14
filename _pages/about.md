@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Writings and shower thoughts"
+title: "Blogs and shower thoughts"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
