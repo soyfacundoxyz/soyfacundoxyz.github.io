@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Facundo"
   avatar           : "profile.png"
-  bio              : "a false sense of a successful crypto researcher"
+  bio              : "another failure with a false sense of researcher"
   location         : "Argentina"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,13 +102,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://www.twitter.com/quienesfacundo"
+  twitter          : "quienesfacundo"
   vine             :
   weibo            :
   xing             :
