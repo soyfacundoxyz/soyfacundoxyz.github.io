@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Facu's Homepage :)"
+title                    : "Facu's Homepage"
 title_separator          : "-"
 name                     : &name "Facundo"
 description              : &description "personal description"
