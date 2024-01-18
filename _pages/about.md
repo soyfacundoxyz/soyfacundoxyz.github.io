@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+* [Theoretical cross-chain MEV on Cosmos](https://mirror.xyz/0x0d4A5646838007E02c474a77EB900604bFC2ef84/NKMltnUtJtkBzht8Pab9vxP_qroUpaLrXopq83NBhAo)(EN)
 * [MEV in Solana: An early exploration](https://utonium.medium.com/mev-in-solana-an-early-exploration-4d7421b1f49b)(EN)
 * [MEVA vs MEV Minimization: Why FSS is not a long-term solution?](https://utonium.medium.com/meva-vs-mev-minimization-why-fss-is-not-a-long-term-solution-511064464867)(EN)
 * [About RWA and its (in)efficiency](https://www.notion.so/makergrowth/RWA-EN-4158312ad12e4421875d19f154a21fba)(EN)
